@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(598,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(598,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(600,92): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(600,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(622,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(622,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(624,92): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(624,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(685,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(685,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(685,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(722,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(727,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(732,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(735,50): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(735,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.h(735,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\MyForm.cpp(11,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursovaya.vcxproj -> C:\Users\38812\source\repos\Kursovaya\Debug\Kursovaya.exe

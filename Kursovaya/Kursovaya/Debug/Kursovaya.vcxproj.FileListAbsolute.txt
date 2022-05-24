@@ -1,0 +1,5 @@
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\Debug\Kursovaya.MyForm.resources
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\Debug\Kursovaya.MyForm1.resources
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\38812\source\repos\Kursovaya\Kursovaya\Debug\Kursovaya.MyForm2.resources
